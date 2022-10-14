@@ -1,0 +1,4 @@
+@import './style.less';
+.root {
+  user-select: none;
+}
